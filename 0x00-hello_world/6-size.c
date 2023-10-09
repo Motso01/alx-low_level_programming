@@ -2,7 +2,6 @@
 
 /**
  * main - A program that prints the size of different computer types
- *
  * Return: 0(Success)
  */
 
